@@ -1,0 +1,30 @@
+body{
+    background-color: #eee;
+    font-family: 'Vollkorn', serif;
+}
+.jumbotron{
+    background-color: #2196F3;
+    
+}
+
+h1, h2, h3{
+    font-family: 'Vollkorn', serif;
+    
+    color: #212121;
+   
+}
+
+
+
+table{
+    background-color: #607D8B;
+    
+}
+
+th, td{
+    color: #FFFFFF;
+}
+
+
+
+
